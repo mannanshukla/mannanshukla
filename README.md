@@ -1,1 +1,2 @@
-president of [ruslug](https://ruslug.org)
+always learning and building
+more at [](mannan.dev)
